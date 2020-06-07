@@ -117,7 +117,7 @@ face global Error "%opt{anirak_error_fg},default"
 # All status line: what we type, but also client@[session]
 face global StatusLine "%opt{anirak_white},default"
 # Insert mode, prompt mode
-face global StatusLineMode "%opt{anirak_green},default"
+face global StatusLineMode "%opt{anirak_cyan},default+b"
 # Message like '1 sel'
 face global StatusLineInfo "%opt{anirak_white},default"
 # Count
